@@ -1,4 +1,15 @@
-.picture1{
-	width: 200px;
-	height: 300px;
+p{
+	color: purple;
 }
+p{background-color: pink;}
+h1{color: blue;}
+h2{color: #b3baff;}
+h1{background-color: #c6e2ff;}
+h2{background-color: #dddddd;}
+img{
+	width: 100%;
+	height: auto;
+  	border: 5px solid #b3baff;
+
+}
+ 
